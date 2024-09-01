@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 streamlit
 google.generativeai
 python-dotenv
 PyPDF2
+=======
+streamlit
+google.generativeai
+python-dotenv
+PyPDF2
+>>>>>>> fb018c0179f62e633ecd4b646f4ad4b5de1edc24
 Pillow
